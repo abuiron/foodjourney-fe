@@ -1,13 +1,13 @@
 
-# Kitchen Recipe Management App
+# Food Journey App
 
-Welcome to Kitchen Recipe Management App, a web application designed to help you manage and organize your recipes efficiently.This web application allows users to manage their recipes, including adding, editing, and deleting recipes, and saving other recipes. making your cooking experience more enjoyable and organized.
+Welcome to Food Journey App, a web application designed to help you manage and organize your recipes efficiently.This web application allows users to manage their recipes, including adding, editing, and deleting recipes, and saving other recipes. making your cooking experience more enjoyable and organized.
 
 ## Live Link
- -[Food Journey Web App](https://food-journey.netlify.app)
+ -[Food Journey Web App](https://foodjourney.netlify.app)
 
  ## Backend Repo Link
-  -[Backen Repo](https://github.com/abuiron/foodjourney-be)
+  -[Backend Repo](https://github.com/abuiron/foodjourney-be)
 
 <!-- ## Login Page
  ![loginpage](https://github.com/abuiron/foodjourney-fe/blob/main/public/login.png?raw=true) -->

@@ -7,7 +7,14 @@ Welcome to Kitchen Recipe Management App, a web application designed to help you
  -[Food Journey Web App](https://food-journey.netlify.app)
 
  ## Backend Repo Link
-  -[Backen Repo](https://github.com/abuiron/food-journey-backend)
+  -[Backen Repo](https://github.com/abuiron/foodjourney-be)
+
+<!-- ## Login Page
+ ![loginpage](https://github.com/abuiron/foodjourney-fe/blob/main/public/login.png?raw=true) -->
+
+## Home Page
+![homepage](https://github.com/abuiron/foodjourney-fe/blob/main/public/assets/front.png?raw=true)
+
   
 ## Features
 
